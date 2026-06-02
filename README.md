@@ -232,6 +232,9 @@ A curated list of LLM-powered tools and resources with llms.txt implementation.
 - ![Writer favicon](https://www.google.com/s2/favicons?domain=writer.com&size=128) **[Writer](https://writer.com/)** - Build generative AI into any business process with Writer’s secure enterprise platform. Trusted by world-class enterprises. <sub>[llms.txt](https://dev.writer.com/llms.txt) • [llms-full.txt](https://dev.writer.com/llms-full.txt)</sub>
 - ![Xomatic favicon](https://www.google.com/s2/favicons?domain=www.xomatic.ai&size=128) **[Xomatic](https://www.xomatic.ai)** - Transform your business with cutting-edge AI automation solutions. Scalable, secure, and powerful tools for modern enterprises. <sub>[llms.txt](https://www.xomatic.ai/llms.txt)</sub>
 - ![ZenML favicon](https://www.google.com/s2/favicons?domain=zenml.io&size=128) **[ZenML](https://zenml.io)** - A MLOps framework for machine learning pipelines  that run anywhere - AWS Sagemaker, GCP Vertex AI, Kubeflow Pipelines with MLflow and more! <sub>[llms.txt](https://docs.zenml.io/llms.txt)</sub>
+- ![100kdo](https://100kdo.ccwu.cc) **[100kdo](https://100kdo.ccwu.cc)** - AI-powered expert toolkit platform covering 22 domains. One-click copy of expert prompts and authoritative data ports! <sub>[llms.txt](https://100kdo.ccwu.cc/llms.txt)</sub>
+
+
 
 ### 🔍 automation workflow
 
